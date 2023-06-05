@@ -1,3 +1,7 @@
+![Preview Movie App1](public/preview1.png)
+![Preview Movie App2](public/preview2.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
